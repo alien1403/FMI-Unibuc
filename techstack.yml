@@ -2,7 +2,7 @@ repo_name: alien1403/FMI-Unibuc
 report_id: 49c6d4a325380544d1c6bbc367b633c4
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T08:56:47+00:00'
+timestamp: '2024-02-29T19:46:09+00:00'
 requested_by: DariusBuhai
 provider: github
 branch: main
@@ -234,7 +234,7 @@ tools:
   last_updated_by: Darius Buhai
   last_updated_on: 2022-07-12 06:56:22.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -629,7 +629,7 @@ tools:
   last_updated_by: Darius Buhai
   last_updated_on: 2022-07-12 06:56:22.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
@@ -705,8 +705,8 @@ tools:
   last_updated_by: Darius Buhai
   last_updated_on: 2022-07-12 06:56:22.000000000 Z
 - name: EditorConfig
-  description: 'A file format and collection of text editor plugins for maintaining
-    consistent coding styles '
+  description: A file format and collection of text editor plugins for maintaining
+    consistent coding styles
   website_url: http://editorconfig.org
   open_source: false
   hosted_saas: false
@@ -891,7 +891,7 @@ tools:
   last_updated_by: Darius Buhai
   last_updated_on: 2022-07-12 06:56:22.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   license: MIT
   open_source: true
@@ -972,7 +972,7 @@ tools:
   last_updated_by: Darius Buhai
   last_updated_on: 2022-07-12 06:56:22.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   license: MIT
   open_source: true
